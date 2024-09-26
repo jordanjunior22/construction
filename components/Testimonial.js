@@ -16,7 +16,7 @@ const Testimonials = () => {
     {
       name: "Michael Johnson",
       company: "MJ Builders",
-      feedback: "The team's expertise in construction and project management made our experience smooth and enjoyable. Highly recommend!",
+      feedback: "The team&quot;s expertise in construction and project management made our experience smooth and enjoyable. Highly recommend!",
     },
   ];
 
